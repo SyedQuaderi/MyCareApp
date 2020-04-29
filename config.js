@@ -26,7 +26,7 @@ PESconfig.PESLiteImages = {
   orderMinus: 'Assets/Images/Minus.svg',
   orderPlus: 'Assets/Images/Plus.svg',
   downArrow: 'Assets/Images/down-arrow.svg',
-  carePlanAppbg: 'localhost/background.jpg'
+  carePlanAppbg: 'Assets/Images/pesbg.jpg'
 }
 
 /********** MainMenu Slider Settings****/ 
