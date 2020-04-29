@@ -4,7 +4,7 @@
 const PESconfig = window;
 
 PESconfig.APIConfig = {
-  PROD_API : 'http://vm-mel-bh18:8086/pes/api', // API config settings for Production
+  PROD_API : 'https://localhost:44313/api', // API config settings for Production
   DEV_API : 'https://localhost:44313/api',       // API config settings for Development
   ID: 12,
   MacID: '00187D0D1AFD',
